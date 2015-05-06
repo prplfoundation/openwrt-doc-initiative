@@ -36,5 +36,5 @@ Like most open source documentation projects, the OpenWrt wiki is a collaborativ
 
 3. Once everyone involved feels the changes are completed, the issue should be closed. If someone realizes there are additional changes which need to be made, it's okay to reopen the issue later.
 
-#Want to discuss ideas that aren't directly related to an issues?
+#Want to discuss ideas that aren't directly related to an issue?
 Not every discussion related to working on the wiki is appropriate for issues. If you want to discuss how this effort is organized, have announcements or just general wiki related discussion, you should do this on [the OpenWrt forum](https://forum.openwrt.org/viewforum.php?id=17). 
